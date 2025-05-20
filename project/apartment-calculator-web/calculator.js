@@ -5,6 +5,86 @@ document.addEventListener('DOMContentLoaded', () => {
     const apartmentResultsDiv = document.getElementById('apartmentResults');
     const efficiencyResultsDiv = document.getElementById('efficiencyResults');
 
+    // ГОСТы и нормативы
+    const gostStandards = {
+        apartmentSizes: {
+            oneBedroom: {
+                gost: 'ГОСТ 27751-2014',
+                description: currentLanguage === 'en' 
+                    ? 'Minimum and maximum sizes for 1-bedroom apartments'
+                    : 'Минимальные и максимальные размеры для однокомнатных квартир'
+            },
+            twoBedroom: {
+                gost: 'ГОСТ 27751-2014',
+                description: currentLanguage === 'en'
+                    ? 'Minimum and maximum sizes for 2-bedroom apartments'
+                    : 'Минимальные и максимальные размеры для двухкомнатных квартир'
+            },
+            threeBedroom: {
+                gost: 'ГОСТ 27751-2014',
+                description: currentLanguage === 'en'
+                    ? 'Minimum and maximum sizes for 3-bedroom apartments'
+                    : 'Минимальные и максимальные размеры для трехкомнатных квартир'
+            }
+        },
+        ceilingHeight: {
+            gost: 'СП 54.13330.2016',
+            description: currentLanguage === 'en'
+                ? 'Minimum ceiling height requirements'
+                : 'Требования к минимальной высоте потолков'
+        },
+        windows: {
+            gost: 'СП 54.13330.2016',
+            description: currentLanguage === 'en'
+                ? 'Requirements for natural lighting and ventilation'
+                : 'Требования к естественному освещению и вентиляции'
+        },
+        technicalAreas: {
+            elevators: {
+                gost: 'СП 267.1325800.2016',
+                description: currentLanguage === 'en'
+                    ? 'Requirements for elevator shafts and equipment'
+                    : 'Требования к лифтовым шахтам и оборудованию'
+            },
+            stairs: {
+                gost: 'СП 1.13130.2009',
+                description: currentLanguage === 'en'
+                    ? 'Fire safety requirements for escape routes'
+                    : 'Требования пожарной безопасности к путям эвакуации'
+            },
+            corridors: {
+                gost: 'СП 1.13130.2009',
+                description: currentLanguage === 'en'
+                    ? 'Fire safety requirements for corridors and common areas'
+                    : 'Требования пожарной безопасности к коридорам и общим помещениям'
+            },
+            garbageChute: {
+                gost: 'СП 54.13330.2016',
+                description: currentLanguage === 'en'
+                    ? 'Requirements for garbage chute systems'
+                    : 'Требования к системам мусоропровода'
+            },
+            technicalRooms: {
+                gost: 'СП 54.13330.2016',
+                description: currentLanguage === 'en'
+                    ? 'Requirements for technical rooms and equipment placement'
+                    : 'Требования к техническим помещениям и размещению оборудования'
+            },
+            entranceGroups: {
+                gost: 'СП 54.13330.2016',
+                description: currentLanguage === 'en'
+                    ? 'Requirements for entrance groups and vestibules'
+                    : 'Требования к входным группам и тамбурам'
+            }
+        },
+        buildingEfficiency: {
+            gost: 'СП 54.13330.2016',
+            description: currentLanguage === 'en'
+                ? 'Requirements for building space efficiency and planning solutions'
+                : 'Требования к эффективности использования пространства и планировочным решениям'
+        }
+    };
+
     calculateBtn.addEventListener('click', () => {
         // Get building specifications
         const buildingSpecs = {
@@ -138,9 +218,37 @@ document.addEventListener('DOMContentLoaded', () => {
             <p>${currentLanguage === 'en' ? 'Has Basement' : 'Есть Подвал'}: ${buildingSpecs.hasBasement ? (currentLanguage === 'en' ? 'Yes' : 'Да') : (currentLanguage === 'en' ? 'No' : 'Нет')}</p>
         `;
 
-        // Display apartment results
+        // Display apartment results with GOST information
         apartmentResultsDiv.innerHTML = `
             <h4 data-i18n="apartmentDistribution">Apartment Distribution</h4>
+            <div class="gost-standards mb-4">
+                <h5>${currentLanguage === 'en' ? 'Applicable Standards' : 'Применяемые Стандарты'}</h5>
+                <div class="gost-categories">
+                    <h6 class="gost-category-title">${currentLanguage === 'en' ? 'Apartment Standards' : 'Стандарты для квартир'}</h6>
+                    <ul class="list-unstyled">
+                        <li><strong>${gostStandards.apartmentSizes.oneBedroom.gost}</strong>: ${gostStandards.apartmentSizes.oneBedroom.description}</li>
+                        <li><strong>${gostStandards.apartmentSizes.twoBedroom.gost}</strong>: ${gostStandards.apartmentSizes.twoBedroom.description}</li>
+                        <li><strong>${gostStandards.apartmentSizes.threeBedroom.gost}</strong>: ${gostStandards.apartmentSizes.threeBedroom.description}</li>
+                        <li><strong>${gostStandards.ceilingHeight.gost}</strong>: ${gostStandards.ceilingHeight.description}</li>
+                        <li><strong>${gostStandards.windows.gost}</strong>: ${gostStandards.windows.description}</li>
+                    </ul>
+
+                    <h6 class="gost-category-title">${currentLanguage === 'en' ? 'Technical Areas Standards' : 'Стандарты для технических помещений'}</h6>
+                    <ul class="list-unstyled">
+                        <li><strong>${gostStandards.technicalAreas.elevators.gost}</strong>: ${gostStandards.technicalAreas.elevators.description}</li>
+                        <li><strong>${gostStandards.technicalAreas.stairs.gost}</strong>: ${gostStandards.technicalAreas.stairs.description}</li>
+                        <li><strong>${gostStandards.technicalAreas.corridors.gost}</strong>: ${gostStandards.technicalAreas.corridors.description}</li>
+                        <li><strong>${gostStandards.technicalAreas.garbageChute.gost}</strong>: ${gostStandards.technicalAreas.garbageChute.description}</li>
+                        <li><strong>${gostStandards.technicalAreas.technicalRooms.gost}</strong>: ${gostStandards.technicalAreas.technicalRooms.description}</li>
+                        <li><strong>${gostStandards.technicalAreas.entranceGroups.gost}</strong>: ${gostStandards.technicalAreas.entranceGroups.description}</li>
+                    </ul>
+
+                    <h6 class="gost-category-title">${currentLanguage === 'en' ? 'Building Efficiency Standards' : 'Стандарты эффективности здания'}</h6>
+                    <ul class="list-unstyled">
+                        <li><strong>${gostStandards.buildingEfficiency.gost}</strong>: ${gostStandards.buildingEfficiency.description}</li>
+                    </ul>
+                </div>
+            </div>
             ${distributions.map(dist => `
                 <div class="apartment-result mb-4">
                     <h5>${dist.type}</h5>
