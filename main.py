@@ -7,7 +7,6 @@ from apartment_distribution import (
 )
 from visualization import (
     visualize_floor_plans,
-    visualize_apartment_distribution,
 )
 
 
@@ -35,7 +34,7 @@ def main():
     visualize_floor_plans(building, save_path="floor_plans.png")
 
     # Визуализируем распределение квартир по этажам
-    visualize_apartment_distribution(building, save_path="distribution.png")
+    # visualize_apartment_distribution(building, save_path="distribution.png")
 
 
 if __name__ == "__main__":
