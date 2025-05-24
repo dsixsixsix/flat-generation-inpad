@@ -1,0 +1,8 @@
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net7.0/InpadProject.csproj.AssemblyReference.cache
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net7.0/Avalonia/Resources.Inputs.cache
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net7.0/Avalonia/resources
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net7.0/InpadProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net7.0/InpadProject.AssemblyInfoInputs.cache
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net7.0/InpadProject.AssemblyInfo.cs
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net7.0/InpadProject.csproj.CoreCompileInputs.cache
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net7.0/InpadProject.sourcelink.json

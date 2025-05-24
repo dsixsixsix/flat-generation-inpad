@@ -1,0 +1,265 @@
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/InpadProject
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/InpadProject.deps.json
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/InpadProject.runtimeconfig.json
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/InpadProject.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/InpadProject.pdb
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.Base.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.Controls.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.Dialogs.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.Markup.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.Metal.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.MicroCom.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.OpenGL.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.Desktop.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.Native.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.Skia.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.Win32.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Avalonia.X11.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/HarfBuzzSharp.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/MicroCom.Runtime.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/SkiaSharp.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/System.Reactive.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net8.0/InpadProject.csproj.AssemblyReference.cache
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net8.0/Avalonia/resources
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net8.0/InpadProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net8.0/InpadProject.AssemblyInfoInputs.cache
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net8.0/InpadProject.AssemblyInfo.cs
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net8.0/InpadProject.csproj.CoreCompileInputs.cache
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net8.0/InpadProject.sourcelink.json
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net8.0/Avalonia/references
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net8.0/Avalonia/original.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net8.0/Avalonia/original.pdb
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net8.0/Avalonia/original.ref.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net8.0/refint/InpadProject.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net8.0/InpadProject.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net8.0/InpadProject.pdb
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net8.0/InpadPro.E539072D.Up2Date
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net8.0/InpadProject.genruntimeconfig.cache
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT VISUAL [C#, Cursor AI]/InpadProject/obj/Debug/net8.0/ref/InpadProject.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/InpadProject
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/InpadProject.deps.json
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/InpadProject.runtimeconfig.json
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/InpadProject.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/InpadProject.pdb
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.Base.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.Controls.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.Dialogs.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.Markup.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.Metal.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.MicroCom.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.OpenGL.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.Desktop.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.Native.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.Skia.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.Win32.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Avalonia.X11.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/HarfBuzzSharp.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/MicroCom.Runtime.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/SkiaSharp.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/System.Reactive.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/obj/Debug/net8.0/InpadProject.csproj.AssemblyReference.cache
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/obj/Debug/net8.0/Avalonia/resources
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/obj/Debug/net8.0/InpadProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/obj/Debug/net8.0/InpadProject.AssemblyInfoInputs.cache
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/obj/Debug/net8.0/InpadProject.AssemblyInfo.cs
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/obj/Debug/net8.0/InpadProject.csproj.CoreCompileInputs.cache
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/obj/Debug/net8.0/Avalonia/references
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/obj/Debug/net8.0/Avalonia/original.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/obj/Debug/net8.0/Avalonia/original.pdb
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/obj/Debug/net8.0/Avalonia/original.ref.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/obj/Debug/net8.0/refint/InpadProject.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/obj/Debug/net8.0/InpadProject.dll
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/obj/Debug/net8.0/InpadProject.pdb
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/obj/Debug/net8.0/InpadPro.E539072D.Up2Date
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/obj/Debug/net8.0/InpadProject.genruntimeconfig.cache
+/Users/mihailkraynev/Documents/Dev/INPAD PROJECT [Visual C#]/InpadProject/obj/Debug/net8.0/ref/InpadProject.dll
